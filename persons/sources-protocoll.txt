@@ -1,0 +1,652 @@
+Image Processing Protocol - 20.04.2026 18:30:24,61 
+--------------------------------------------------- 
+FILE NOT FOUND: Z1-H-Hydrogen.jpg 
+--------------------------------------------------- 
+File: Z1I-Paracelsus.jpg | Size: 104802B | Dimensions: 417x556
+Comment: Z1I-Paracelsus.jpg - Source: https://commons.wikimedia.org/wiki/File:Effigies_Paracelsi_Medici_Celeberrimi_FA_2000.001.203.jpg
+--------------------------------------------------- 
+File: Z1I-Boyle.jpg | Size: 21324B | Dimensions: 186x248
+Comment: Z1I-Boyle.jpg - Source: https://commons.wikimedia.org/wiki/File:Portrait_of_The_Honourable_Robert_Boyle_(1627_-_1691)_Wellcome_M0006615.jpg
+--------------------------------------------------- 
+File: Z1DS-Cavendish.jpg | Size: 10295B | Dimensions: 188x250
+Comment: Z1DS-Cavendish.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Cavendish0Henry0signature.jpg
+--------------------------------------------------- 
+File: Z1N-Z6INK-Z7NK-Z8INK-Z9NK-Z15INK-Z16INK-Z17NK-Z22K-Z24K-Z25NK-Z26NK-Z27NK-Z28NK-Z29NK-Z30NK-Z33NK-Z42NK-Z47NK-Z50NK-Z51NK-Z56NK-Z74NK-Z78NK-Z79NK-Z80NK-Z82NK-Z83NK-Lavoisier.jpg | Size: 79084B | Dimensions: 552x735
+Comment: Z1N-Z6INK-Z7NK-Z8INK-Z9NK-Z15INK-Z16INK-Z17NK-Z22K-Z24K-Z25NK-Z26NK-Z27NK-Z28NK-Z29NK-Z30NK-Z33NK-Z42NK-Z47NK-Z50NK-Z51NK-Z56NK-Z74NK-Z78NK-Z79NK-Z80NK-Z82NK-Z83NK-Lavoisier.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/David0-0Portrait0of0Monsieur0Lavoisier0%28cropped9.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z2-He-Helium.jpg 
+--------------------------------------------------- 
+File: Z2S-Z10D-Z18D-Z36D-Z54DS-Ramsay.jpg | Size: 24683B | Dimensions: 257x343
+Comment: Z2S-Z10D-Z18D-Z36D-Z54DS-Ramsay.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/William0Ramsay.jpg
+--------------------------------------------------- 
+File: Z2D-Janssen.jpg | Size: 58415B | Dimensions: 385x514
+Comment: Z2D-Janssen.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Jules0Janssen03.jpg
+--------------------------------------------------- 
+File: Z2DN-Lockyer.jpg | Size: 11711B | Dimensions: 184x246
+Comment: Z2DN-Lockyer.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Lockyer-Norman.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z3-Li-Lithium.jpg 
+--------------------------------------------------- 
+File: Z3I-Arfwedson.jpg | Size: 125498B | Dimensions: 659x879
+Comment: Z3I-Arfwedson.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Berzelius0Reseanteckningar0Johan0Arfwedson.png
+--------------------------------------------------- 
+File: Z3N-Z14S-Z34D-Z40S-Z58I-Z90DSN-Berzelius.jpg | Size: 41270B | Dimensions: 280x374
+Comment: Z3N-Z14S-Z34D-Z40S-Z58I-Z90DSN-Berzelius.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/JJPEG3%B6ns0Jacob0Berzelius0from0Familj-Journalen1873.png
+--------------------------------------------------- 
+File: Z3S-Brande.jpg | Size: 5405B | Dimensions: 107x143
+Comment: Z3S-Brande.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/William_Thomas_Brande_1855.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z4-Be-Beryllium.jpg 
+--------------------------------------------------- 
+File: Z4S-Bussy.jpg | Size: 100135B | Dimensions: 478x637
+Comment: Z4S-Bussy.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine0AB0Bussy.jpg
+--------------------------------------------------- 
+File: Z4I-Z24DS-Vauquelin.jpg | Size: 135960B | Dimensions: 493x658
+Comment: Z4I-Z24DS-Vauquelin.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Louis0Nicolas0Vauquelin03.jpg
+--------------------------------------------------- 
+File: Z4S-Z39S-Woehler.jpg | Size: 82519B | Dimensions: 382x509
+Comment: Z4S-Z39S-Woehler.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich0WJPEG3%B6hler0Litho.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z5-B-Boron.jpg 
+--------------------------------------------------- 
+File: Z5SN-Z11S-Z13N-Z17IN-Z19S-Z20S-Z38S-Z53I-Z56S-Davy.jpg | Size: 69191B | Dimensions: 300x400
+Comment: Z5SN-Z11S-Z13N-Z17IN-Z19S-Z20S-Z38S-Z53I-Z56S-Davy.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Sir0Humphry0DavyC0Bt0by0Thomas0Phillips.jpg
+--------------------------------------------------- 
+File: Z5S-Z53IN-Gay-Lussac.jpg | Size: 91672B | Dimensions: 300x400
+Comment: Z5S-Z53IN-Gay-Lussac.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Gaylussac.jpg
+--------------------------------------------------- 
+File: Z5S-Thenard.jpg | Size: 90718B | Dimensions: 417x555
+Comment: Z5S-Thenard.jpg - Source: https://commons.wikimedia.org/wiki/File:Louis_Jacques_ThJPEG3%A9nard.jpg
+--------------------------------------------------- 
+File: Z5S-Z9S-Moissan.jpg | Size: 72809B | Dimensions: 300x400
+Comment: Z5S-Z9S-Moissan.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Henri0Moissan.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z6-C-Carbon.jpg 
+--------------------------------------------------- 
+File: Z6I-Z76ID-Z77DS-Tennant.jpg | Size: 146885B | Dimensions: 800x1066
+Comment: Z6I-Z76ID-Z77DS-Tennant.jpg - Source: https://upload.wikimedia.org/wikipedia/commons/d/d9/Smithson_Tennant_Blue_Plaque.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z7-N-Nitrogen.jpg 
+--------------------------------------------------- 
+File: Z7D-D_Rutherford.jpg | Size: 17220B | Dimensions: 165x220
+Comment: Z7D-D_Rutherford.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Rutherford0Daniel.jpg
+--------------------------------------------------- 
+File: Z7N-Chaptal.jpg | Size: 12873B | Dimensions: 153x203
+Comment: Z7N-Chaptal.jpg - Source: https://commons.wikimedia.org/wiki/File:Jean-Antoine_Chaptal_(1756-1832),_comte_de_Chanteloup.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z8-O-Oxygen.jpg 
+--------------------------------------------------- 
+File: Z8DS-Z17D-Z25I-Z42I-Z56I-Z74I-Scheele.jpg | Size: 28062B | Dimensions: 281x374
+Comment: Z8DS-Z17D-Z25I-Z42I-Z56I-Z74I-Scheele.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Carl0Wilhelm0Scheele.jpg
+--------------------------------------------------- 
+File: Z8D-Priestley.jpg | Size: 42965B | Dimensions: 387x515
+Comment: Z8D-Priestley.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Priestley.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z9-F-Fluorine.jpg 
+--------------------------------------------------- 
+File: Z9I-Ampere.jpg | Size: 144440B | Dimensions: 460x613
+Comment: Z9I-Ampere.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Ampere0portrait0at0the0Musee0Poleymieux.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z10-Ne-Neon.jpg 
+--------------------------------------------------- 
+File: Z10D-Z36D-Z54DS-Travers.jpg | Size: 58258B | Dimensions: 353x471
+Comment: Z10D-Z36D-Z54DS-Travers.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Morris0Travers.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z11-Na-Sodium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z12-Mg-Magnesium.jpg 
+--------------------------------------------------- 
+File: Z12I-Black.jpg | Size: 160530B | Dimensions: 505x674
+Comment: Z12I-Black.jpg - Source: https://commons.wikimedia.org/wiki/File:Black_Joseph.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z13-Al-Aluminium.jpg 
+--------------------------------------------------- 
+File: Z13S-Oersted.jpg | Size: 66965B | Dimensions: 300x400
+Comment: Z13S-Oersted.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/JPEG3%98rstedC0Hans0Christian0%28av0Christian0Albrecht0Jensen01842%29.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z14-Si-Silicon.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z15-P-Phosphorus.jpg 
+--------------------------------------------------- 
+File: Z15DS-Brand.jpg | Size: 60182B | Dimensions: 286x381
+Comment: Z15DS-Brand.jpg - Source: https://upload.wikimedia.org/wikipedia/commons/f/f2/Hennig_BrandC_the_German_alchemistC_discovering_phosphorus._Wellcome_L0004318.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z16-S-Sulfur.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z17-Cl-Chlorine.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z18-Ar-Argon.jpg 
+--------------------------------------------------- 
+File: Z18D-Strutt.jpg | Size: 45549B | Dimensions: 346x461
+Comment: Z18D-Strutt.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/John0William0Strutt.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z19-K-Potassium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z20-Ca-Calcium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z21-Sc-Scandium.jpg 
+--------------------------------------------------- 
+File: Z21V-Z31V-Z32V-Z43V-Z62V-Z72V-Z85V-Z87V-Mendelejew.jpg | Size: 73003B | Dimensions: 300x400
+Comment: Z21V-Z31V-Z32V-Z43V-Z62V-Z72V-Z85V-Z87V-Mendelejew.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Dmitri_Mendeleev.jpg
+--------------------------------------------------- 
+File: Z21DN-Nilson.jpg | Size: 17494B | Dimensions: 220x293
+Comment: Z21DN-Nilson.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Nilson0Lars0Fredrik.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z22-Ti-Titanium.jpg 
+--------------------------------------------------- 
+File: Z22D-Gregor.jpg | Size: 100788B | Dimensions: 539x718
+Comment: Z22D-Gregor.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/William_Gregor.jpg
+--------------------------------------------------- 
+File: Z22IN-Z40I-Z52IN-Z58I-Z92DN-Klaproth.jpg | Size: 150006B | Dimensions: 517x689
+Comment: Z22IN-Z40I-Z52IN-Z58I-Z92DN-Klaproth.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Martin0Heinrich0Klaproth.jpg
+--------------------------------------------------- 
+File: Z22S-Hunter.jpg | Size: 4213B | Dimensions: 103x137
+Comment: Z22S-Hunter.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Matthew_hunter.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z23-V-Vanadium.jpg 
+--------------------------------------------------- 
+File: Z23I-del_Rio.jpg | Size: 77987B | Dimensions: 550x733
+Comment: Z23I-del_Rio.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/AndrJPEG3%A9s0Manuel0del0RJPEG3%ADo0%28Rafael0Ximeno0y0Planes01825%29%20retrato.png
+--------------------------------------------------- 
+File: Z23IN-Sefstroem.jpg | Size: 9070B | Dimensions: 150x200
+Comment: Z23IN-Sefstroem.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Nils_Gabriel_SefstrJPEG3%B6m_81787-1845%29_3.png
+--------------------------------------------------- 
+File: Z23S-Roscoe.jpg | Size: 38403B | Dimensions: 404x538
+Comment: Z23S-Roscoe.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Sir_Henry_Enfield_Roscoe_8by_Olive_Edis9_2%80%93_National_Portrait_GalleryC_London_8edited9.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z24-Cr-Chromium.jpg 
+--------------------------------------------------- 
+File: Z24D-Lehmann.jpg | Size: 57970B | Dimensions: 297x395
+Comment: Z24D-Lehmann.jpg - Source: https://commons.wikimedia.org/wiki/File:Johann_Gottlob_Lehmann.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z25-Mn-Manganese.jpg 
+--------------------------------------------------- 
+File: Z25S-Z34D-Gahn.jpg | Size: 203742B | Dimensions: 540x719
+Comment: Z25S-Z34D-Gahn.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Gahn0Johan0Gottlieb.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z26-Fe-Iron.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z27-Co-Cobalt.jpg 
+--------------------------------------------------- 
+File: Z27DS-Brandt.jpg | Size: 52519B | Dimensions: 394x525
+Comment: Z27DS-Brandt.jpg - Source: https://runeberg.org/nfbc/0795.html
+--------------------------------------------------- 
+FILE NOT FOUND: Z28-Ni-Nickel.jpg 
+--------------------------------------------------- 
+File: Z28D-Cronstedt.jpg | Size: 59602B | Dimensions: 381x508
+Comment: Z28D-Cronstedt.jpg - Source: https://commons.wikimedia.org/wiki/File:Axel_Fredrik_Cronstedt.JPG
+--------------------------------------------------- 
+File: Z28S-Bergman.jpg | Size: 25751B | Dimensions: 254x339
+Comment: Z28S-Bergman.jpg - Source: https://commons.wikimedia.org/wiki/File:Torbern_Olof_Bergman.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z29-Cu-Copper.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z30-Zn-Zinc.jpg 
+--------------------------------------------------- 
+File: Z30S-Marggraf.jpg | Size: 35634B | Dimensions: 253x338
+Comment: Z30S-Marggraf.jpg - Source: https://commons.wikimedia.org/wiki/File:Andreas_Sigismund_Marggraf-flip.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z31-Ga-Gallium.jpg 
+--------------------------------------------------- 
+File: Z31DS-Z62DS-Z64INS-Z66DS-Boisbaudran.jpg | Size: 9027B | Dimensions: 137x182
+Comment: Z31DS-Z62DS-Z64INS-Z66DS-Boisbaudran.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Lecoq0de0Boisbaudran.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z32-Ge-Germanium.jpg 
+--------------------------------------------------- 
+File: Z32DS-Winkler.jpg | Size: 3693B | Dimensions: 92x122
+Comment: Z32DS-Winkler.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Winkler0Clemens.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z33-As-Arsenic.jpg 
+--------------------------------------------------- 
+File: Z33S-Magnus.jpg | Size: 13629B | Dimensions: 138x184
+Comment: Z33S-Magnus.jpg - Source: https://commons.wikimedia.org/wiki/File:AlbertusMagnus.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z34-Se-Selenium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z35-Br-Bromine.jpg 
+--------------------------------------------------- 
+File: Z35D-Balard.jpg | Size: 9466B | Dimensions: 150x200
+Comment: Z35D-Balard.jpg - Source: https://commons.wikimedia.org/wiki/File:Antoine-Jerome_Balard.jpg
+--------------------------------------------------- 
+File: Z35D-Loewig.jpg | Size: 76395B | Dimensions: 300x400
+Comment: Z35D-Loewig.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Carl0Jacob0Loewig0%281803-1890%29.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z36-Kr-Krypton.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z37-Rb-Rubidium.jpg 
+--------------------------------------------------- 
+File: Z37D-Z55DI-Z68I-Bunsen.jpg | Size: 65240B | Dimensions: 300x400
+Comment: Z37D-Z55DI-Z68I-Bunsen.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Robert0Wilhelm0Bunsen0%28HeidICON053016%29%20%28cropped9.jpg
+--------------------------------------------------- 
+File: Z37D-Z55DI-Kirchhoff.jpg | Size: 76843B | Dimensions: 300x400
+Comment: Z37D-Z55DI-Kirchhoff.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Gustav0Robert0Kirchhoff.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z38-Sr-Strontium.jpg 
+--------------------------------------------------- 
+File: Z38I-Cruickshank.jpg | Size: 10925B | Dimensions: 133x177
+Comment: Z38I-Cruickshank.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/William0Cruickshank.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z39-Y-Yttrium.jpg 
+--------------------------------------------------- 
+File: Z39I-Gadolin.jpg | Size: 25296B | Dimensions: 269x358
+Comment: Z39I-Gadolin.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Johan0Gadolin.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z40-Zr-Zirconium.jpg 
+--------------------------------------------------- 
+File: Z40S-van_Arkel.jpg | Size: 14463B | Dimensions: 208x277
+Comment: Z40S-van_Arkel.jpg - Source: https://commons.wikimedia.org/wiki/File:AEvanArkel.tif
+--------------------------------------------------- 
+File: Z40S-de_Boer.jpg | Size: 77933B | Dimensions: 426x568
+Comment: Z40S-de_Boer.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Prof.0dr.0J.0H.0de0BoerC01947.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z41-Nb-Niobium.jpg 
+--------------------------------------------------- 
+File: Z41I-Hatchett.jpg | Size: 30063B | Dimensions: 230x306
+Comment: Z41I-Hatchett.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Charles0Hatchett02.jpg
+--------------------------------------------------- 
+File: Z41I-Z44I-Z73I-Rose.jpg | Size: 22638B | Dimensions: 200x267
+Comment: Z41I-Z44I-Z73I-Rose.jpg - Source: https://commons.wikimedia.org/wiki/File:Heinrich_Rose.jpg
+--------------------------------------------------- 
+File: Z41S-Blomstrand.jpg | Size: 107042B | Dimensions: 429x572
+Comment: Z41S-Blomstrand.jpg - Source: https://commons.wikimedia.org/wiki/File:WP_Christian_Wilhelm_Blomstrand.jpg
+--------------------------------------------------- 
+File: Z41S-Z73S-von_Bolton.jpg | Size: 11801B | Dimensions: 168x223
+Comment: Z41S-Z73S-von_Bolton.jpg - Source: https://exactwatjezoekt.nl/wp-content/uploads/2022/05/Werner-van-bolton.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z42-Mo-Molybdenum.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z43-Tc-Technetium.jpg 
+--------------------------------------------------- 
+File: Z43D-Perrier.jpg | Size: 36917B | Dimensions: 315x420
+Comment: Z43D-Perrier.jpg - Source: https://www.utoledo.edu/nsm/ic/images/perrier.png
+--------------------------------------------------- 
+File: Z43DS-Z85D-Segre.jpg | Size: 80653B | Dimensions: 300x400
+Comment: Z43DS-Z85D-Segre.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Segre.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z44-Ru-Ruthenium.jpg 
+--------------------------------------------------- 
+File: Z44I-Osann.jpg | Size: 60207B | Dimensions: 511x681
+Comment: Z44I-Osann.jpg - Source: https://commons.wikimedia.org/wiki/File:Gottfried_Osann_1823.png
+--------------------------------------------------- 
+File: Z44DS-Claus.jpg | Size: 5812B | Dimensions: 96x127
+Comment: Z44DS-Claus.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/ClausKE.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z45-Rh-Rhodium.jpg 
+--------------------------------------------------- 
+File: Z45DS-Z46DS-Z76D-Wollaston.jpg | Size: 10159B | Dimensions: 162x215
+Comment: Z45DS-Z46DS-Z76D-Wollaston.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Wollaston0William0Hyde0Jackson0color.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z46-Pd-Palladium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z47-Ag-Silver.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z48-Cd-Cadmium.jpg 
+--------------------------------------------------- 
+File: Z48D-Stromeyer.jpg | Size: 19236B | Dimensions: 218x291
+Comment: Z48D-Stromeyer.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich0Stromeyer.jpg
+--------------------------------------------------- 
+File: Z48D-Hermann.jpg | Size: 29866B | Dimensions: 294x392
+Comment: Z48D-Hermann.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Karl0Samuel0Leberecht0Hermann0%281765-1846%29.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z49-In-Indium.jpg 
+--------------------------------------------------- 
+File: Z49D-Richter.jpg | Size: 9461B | Dimensions: 179x238
+Comment: Z49D-Richter.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus0Theodor0Richter.jpg
+--------------------------------------------------- 
+File: Z49D-Reich.jpg | Size: 8860B | Dimensions: 116x155
+Comment: Z49D-Reich.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Reich0Ferdinand.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z50-Sn-Tin.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z51-Sb-Antimony.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z52-Te-Tellurium.jpg 
+--------------------------------------------------- 
+File: Z52D-von_Reichenstein.jpg | Size: 68201B | Dimensions: 342x455
+Comment: Z52D-von_Reichenstein.jpg - Source: https://commons.wikimedia.org/wiki/File:Franz-Joseph_MJPEG3%BCller_von_Reichenstein.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z53-I-Iodine.jpg 
+--------------------------------------------------- 
+File: Z53D-Courtois.jpg | Size: 8687B | Dimensions: 107x142
+Comment: Z53D-Courtois.jpg - Source: https://www.lookandlearn.com/history-images/preview/M/M221/M221328_Bernard-Courtois-French-chemist.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z54-Xe-Xenon.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z55-Cs-Caesium.jpg 
+--------------------------------------------------- 
+File: Z55S-Setterberg.jpg | Size: 4621B | Dimensions: 89x119
+Comment: Z55S-Setterberg.jpg - Source: https://swedishportraits.com/details/YB0QHyfj0hAAAAAAAABuiw
+--------------------------------------------------- 
+FILE NOT FOUND: Z56-Ba-Barium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z57-La-Lanthanum.jpg 
+--------------------------------------------------- 
+File: Z57DS-Z58S-Z59D-Z60D-Z65DS-Z68DS-Mosander.jpg | Size: 61293B | Dimensions: 489x652
+Comment: Z57DS-Z58S-Z59D-Z60D-Z65DS-Z68DS-Mosander.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Mosander0Carl0Gustav0bw.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z58-Ce-Cerium.jpg 
+--------------------------------------------------- 
+File: Z58I-Hisinger.jpg | Size: 9409B | Dimensions: 120x159
+Comment: Z58I-Hisinger.jpg - Source: https://commons.wikimedia.org/wiki/File:Wilhelm_Hisinger.JPG
+--------------------------------------------------- 
+FILE NOT FOUND: Z59-Pr-Praseodymium.jpg 
+--------------------------------------------------- 
+File: Z59IS-Z60IS-Z71DS-von_Welsbach.jpg | Size: 166000B | Dimensions: 654x872
+Comment: Z59IS-Z60IS-Z71DS-von_Welsbach.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Auer0von0Welsbach.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z60-Nd-Neodymium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z61-Pm-Promethium.jpg 
+--------------------------------------------------- 
+File: Z61V-Brauner.jpg | Size: 6316B | Dimensions: 121x161
+Comment: Z61V-Brauner.jpg - Source: https://commons.wikimedia.org/wiki/File:Bohuslav_Brauner.jpg
+--------------------------------------------------- 
+File: Z61D-Marinsky.jpg | Size: 6583B | Dimensions: 115x153
+Comment: Z61D-Marinsky.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Jacob0A0Marinsky.jpg
+--------------------------------------------------- 
+File: Z61D-Glendenin.jpg | Size: 7090B | Dimensions: 143x191
+Comment: Z61D-Glendenin.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Larry0E0Glendenin.jpg
+--------------------------------------------------- 
+File: Z61D-Coryell.jpg | Size: 2313B | Dimensions: 72x96
+Comment: Z61D-Coryell.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Charles0D.0Coryell0M.I.T.0May01947.png
+--------------------------------------------------- 
+FILE NOT FOUND: Z62-Sm-Samarium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z63-Eu-Europium.jpg 
+--------------------------------------------------- 
+File: Z63VDS-Demarcay.jpg | Size: 8308B | Dimensions: 123x164
+Comment: Z63VDS-Demarcay.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/DemarJPEG3%A7ay.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z64-Gd-Gadolinium.jpg 
+--------------------------------------------------- 
+File: Z64DS-Z70DS-de_Marignac.jpg | Size: 4469B | Dimensions: 95x127
+Comment: Z64DS-Z70DS-de_Marignac.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Galissard0de0Marignac.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z65-Tb-Terbium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z66-Dy-Dysprosium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z67-Ho-Holmium.jpg 
+--------------------------------------------------- 
+File: Z67I-Soret.jpg | Size: 35730B | Dimensions: 306x408
+Comment: Z67I-Soret.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis0Soret.JPG
+--------------------------------------------------- 
+File: Z67I-Delafontaine.jpg | Size: 11158B | Dimensions: 120x160
+Comment: Z67I-Delafontaine.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Marc0Delafontaine.jpg
+--------------------------------------------------- 
+File: Z67DSN-Z69DS-Cleve.jpg | Size: 9682B | Dimensions: 155x207
+Comment: Z67DSN-Z69DS-Cleve.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Per0Teodor0Cleve0c1885.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z68-Er-Erbium.jpg 
+--------------------------------------------------- 
+File: Z68K-Berlin.jpg | Size: 15851B | Dimensions: 199x265
+Comment: Z68K-Berlin.jpg - Source: https://commons.wikimedia.org/wiki/File:Nils_Johan_Berlin.jpg
+--------------------------------------------------- 
+File: Z68I-Bahr.jpg | Size: 45475B | Dimensions: 295x393
+Comment: Z68I-Bahr.jpg - Source: https://commons.wikimedia.org/wiki/File:Johan_Fredrik_Bahr.png
+--------------------------------------------------- 
+FILE NOT FOUND: Z69-Tm-Thulium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z70-Yb-Ytterbium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z70IS-Z71I-Z71DSN-Urbain.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z71-Lu-Lutetium.jpg 
+--------------------------------------------------- 
+File: Z71D-James.jpg | Size: 12850B | Dimensions: 177x235
+Comment: Z71D-James.jpg - Source: https://commons.wikimedia.org/wiki/File:The_late_professor_Charles_James_1880-1928.png
+--------------------------------------------------- 
+FILE NOT FOUND: Z72-Hf-Hafnium.jpg 
+--------------------------------------------------- 
+File: Z72D-Hevesy.jpg | Size: 44732B | Dimensions: 476x635
+Comment: Z72D-Hevesy.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/George0de0Hevesy.jpg
+--------------------------------------------------- 
+File: Z72D-Coster.jpg | Size: 8069B | Dimensions: 135x180
+Comment: Z72D-Coster.jpg - Source: https://commons.wikimedia.org/wiki/File:DirkCoster1930s.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z73-Ta-Tantalum.jpg 
+--------------------------------------------------- 
+File: Z73I-Ekeberg.jpg | Size: 25047B | Dimensions: 170x227
+Comment: Z73I-Ekeberg.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Anders0Gustaf0Ekeberg.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z74-W-Tungsten.jpg 
+--------------------------------------------------- 
+File: Z74DS-J_Elhuyar.jpg | Size: 48839B | Dimensions: 331x441
+Comment: Z74DS-J_Elhuyar.jpg - Source: https://images.theconversation.com/files/304819/original/file-20191202-66990-7l0l25.jpeg?ixlib=rb-4.1.0&q=45&auto=format&w=600&h=508&fit=crop&dpr=1
+--------------------------------------------------- 
+File: Z74DS-F_Elhuyar.jpg | Size: 32718B | Dimensions: 314x418
+Comment: Z74DS-F_Elhuyar.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Fausto0Elhuyar.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z75-Re-Rhenium.jpg 
+--------------------------------------------------- 
+File: Z75D-Berg.jpg | Size: 294240B | Dimensions: 606x808
+Comment: Z75D-Berg.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Otto0Berg0%28cropped9.jpg
+--------------------------------------------------- 
+File: Z75D-W_Noddack.jpg | Size: 18992B | Dimensions: 270x360
+Comment: Z75D-W_Noddack.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Ida0Noddack-Tacke.png
+--------------------------------------------------- 
+File: Z75D-I_Noddack.jpg | Size: 112311B | Dimensions: 623x831
+Comment: Z75D-I_Noddack.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/CUndefined9%88%D8%A7%D9%84%D8%AAUndefined8%B1%20%D9%86%D8%A7%D8%AFUndefined8%A7%D9%83%20%28cropped9.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z76-Os-Osmium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z77-Ir-Iridium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z78-Pt-Platinum.jpg 
+--------------------------------------------------- 
+File: Z78I-Scaliger.jpg | Size: 95757B | Dimensions: 343x458
+Comment: Z78I-Scaliger.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Julius0Caesar0Scaliger0-0Imagines0philologorum.jpg
+--------------------------------------------------- 
+File: Z78IN-de_Ulloa.jpg | Size: 65213B | Dimensions: 300x400
+Comment: Z78IN-de_Ulloa.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Almirante0Antonio0de0Ulloa.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z79-Au-Gold.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z80-Hg-Mercury.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z81-Tl-Thallium.jpg 
+--------------------------------------------------- 
+File: Z81D-Crookes.jpg | Size: 45617B | Dimensions: 344x458
+Comment: Z81D-Crookes.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Sir0William0Crookes01906.jpg
+--------------------------------------------------- 
+File: Z81S-Lamy.jpg | Size: 11450B | Dimensions: 154x205
+Comment: Z81S-Lamy.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Claude-Auguste_Lamy.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z82-Pb-Lead.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z83-Bi-Bismuth.jpg 
+--------------------------------------------------- 
+File: Z83N-Agricola.jpg | Size: 16086B | Dimensions: 164x218
+Comment: Z83N-Agricola.jpg - Source: https://commons.wikimedia.org/wiki/File:Georgius_Agricola.jpg
+--------------------------------------------------- 
+File: Z83I-Geoffroy.jpg | Size: 47923B | Dimensions: 267x355
+Comment: Z83I-Geoffroy.jpg - Source: https://gallica.bnf.fr/ark:/12148/bpt6k3551g/f941#
+--------------------------------------------------- 
+FILE NOT FOUND: Z84-Po-Polonium.jpg 
+--------------------------------------------------- 
+File: Z84D-Z88DSN-P_Curie.jpg | Size: 89010B | Dimensions: 477x636
+Comment: Z84D-Z88DSN-P_Curie.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre0Curie0by0Dujardin0c1906.jpg
+--------------------------------------------------- 
+File: Z84D-Z88DSN-M_Curie.jpg | Size: 28892B | Dimensions: 316x421
+Comment: Z84D-Z88DSN-M_Curie.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Marie0Curie0%281900%29%20%28cropped9.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z85-At-Astatine.jpg 
+--------------------------------------------------- 
+File: Z85D-Corson.jpg | Size: 10704B | Dimensions: 179x239
+Comment: Z85D-Corson.jpg - Source: https://commons.wikimedia.org/wiki/File:Dale_R._Corson,_NACA7s_Special_Committee_on_Space_Technology.jpg
+--------------------------------------------------- 
+File: Z85D-MacKenzie.jpg | Size: 45535B | Dimensions: 255x340
+Comment: Z85D-MacKenzie.jpg - Source: https://commons.wikimedia.org/wiki/File:Kenneth_Ross_MacKenzie.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z86-Rn-Radon.jpg 
+--------------------------------------------------- 
+File: Z86D-Owens.jpg | Size: 41548B | Dimensions: 316x421
+Comment: Z86D-Owens.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Robert0Bowie0Owens.jpg
+--------------------------------------------------- 
+File: Z86D-Dorn.jpg | Size: 5954B | Dimensions: 119x158
+Comment: Z86D-Dorn.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/DORN0Friedrich0Ernst.jpg
+--------------------------------------------------- 
+File: Z86D-E_Rutherford.jpg | Size: 69047B | Dimensions: 300x400
+Comment: Z86D-E_Rutherford.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Ernest0Rutherford0LOC.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z87-Fr-Francium.jpg 
+--------------------------------------------------- 
+File: Z87DN-Perey.jpg | Size: 6599B | Dimensions: 112x149
+Comment: Z87DN-Perey.jpg - Source: https://en.wikipedia.org/wiki/Marguerite_Perey#/media/File:Marguerite_Perey.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z88-Ra-Radium.jpg 
+--------------------------------------------------- 
+File: Z88S-Z89DN-Debierne.jpg | Size: 2074B | Dimensions: 57x76
+Comment: Z88S-Z89DN-Debierne.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Debierne.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z89-Ac-Actinium.jpg 
+--------------------------------------------------- 
+File: Z89D-Giesel.jpg | Size: 101162B | Dimensions: 502x670
+Comment: Z89D-Giesel.jpg - Source: https://commons.wikimedia.org/wiki/File:Prof._Dr._Friedrich_Giesel.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z90-Th-Thorium.jpg 
+--------------------------------------------------- 
+File: Z90D-Esmark.jpg | Size: 6313B | Dimensions: 122x162
+Comment: Z90D-Esmark.jpg - Source: https://thoriumenergyalliance.com/wp-content/uploads/2020/08/Hans-Morten-Thrane-Esmark.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z91-Pa-Protactinium.jpg 
+--------------------------------------------------- 
+File: Z91D-Fajans.jpg | Size: 56258B | Dimensions: 300x400
+Comment: Z91D-Fajans.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz0Fajans.jpg
+--------------------------------------------------- 
+File: Z91DN-Hahn.jpg | Size: 38816B | Dimensions: 317x423
+Comment: Z91DN-Hahn.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Otto0Hahn0%28Nobel9.jpg
+--------------------------------------------------- 
+File: Z91DN-Meitner.jpg | Size: 114470B | Dimensions: 670x893
+Comment: Z91DN-Meitner.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Lise0Meitner0%281878-1968%29%2C0lecturing0at0Catholic0UniversityC0WashingtonC0D.C.C01946.jpg
+--------------------------------------------------- 
+File: Z91S-von_Grosse.jpg | Size: 20708B | Dimensions: 232x310
+Comment: Z91S-von_Grosse.jpg - Source: https://commons.wikimedia.org/wiki/File:Informal_portrait_of_Aristid_Grosse_with_bubble.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z92-U-Uranium.jpg 
+--------------------------------------------------- 
+File: Z92S-Peligot.jpg | Size: 6887B | Dimensions: 117x155
+Comment: Z92S-Peligot.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Eugene0peligot.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z93-Np-Neptunium.jpg 
+--------------------------------------------------- 
+File: Z93DN-McMillan.jpg | Size: 22749B | Dimensions: 240x320
+Comment: Z93DN-McMillan.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Edwin0McMillan0Nobel.jpg
+--------------------------------------------------- 
+File: Z93D-Abelson.jpg | Size: 65713B | Dimensions: 300x400
+Comment: Z93D-Abelson.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Phillip0H.0Abelson0450901-N-NO204-0001.jpg
+--------------------------------------------------- 
+File: Z93S-Z94DS-Wahl.jpg | Size: 51725B | Dimensions: 300x400
+Comment: Z93S-Z94DS-Wahl.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Arthur0C.0Wahl0Los0Alamos0identity0badge0photo.jpg
+--------------------------------------------------- 
+File: Z93S-Z94DN-Z95DN-Z96DN-Z100D-Z101D-Z102D-Seaborg.jpg | Size: 65204B | Dimensions: 300x400
+Comment: Z93S-Z94DN-Z95DN-Z96DN-Z100D-Z101D-Z102D-Seaborg.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Glenn0Seaborg0-01964.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z94-Pu-Plutonium.jpg 
+--------------------------------------------------- 
+File: Z94D-Kennedy.jpg | Size: 137098B | Dimensions: 1012x1349
+Comment: Z94D-Kennedy.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Joseph0W.0Kennedy0Los0Alamos0identity0badge0photo.jpg
+--------------------------------------------------- 
+File: Z94S-Z95S-Z96S-Z97S-Z98S-Z99S-Cunningham.jpg | Size: 96951B | Dimensions: 517x689
+Comment: Z94S-Z95S-Z96S-Z97S-Z98S-Z99S-Cunningham.jpg - Source: https://image.jimcdn.com/app/cms/image/transf/dimension=661x10000:format=jpg/path/sad1cc16c4a15de51/image/i62d8a9733fa3d06f/version/1561306132/image.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z95-Am-Americium.jpg 
+--------------------------------------------------- 
+File: Z95D-Z96D-Z97D-Z98D-Z99DN-Z100DN-Z101DN-Z102DN-Z103DN-Z104DN-Z105D-Z106DN-Ghiorso.jpg | Size: 122343B | Dimensions: 538x717
+Comment: Z95D-Z96D-Z97D-Z98D-Z99DN-Z100DN-Z101DN-Z102DN-Z103DN-Z104DN-Z105D-Z106DN-Ghiorso.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Albert0Ghiorso0ca01970.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z96-Cm-Curium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z97-Bk-Berkelium.jpg 
+--------------------------------------------------- 
+File: Z97DN-Z98DN-Z99D-Z100D-Thompson.jpg | Size: 64569B | Dimensions: 300x400
+Comment: Z97DN-Z98DN-Z99D-Z100D-Thompson.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Stanley0Thompson0NARA-7665586.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z98-Cf-Californium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z99-Es-Einsteinium.jpg 
+--------------------------------------------------- 
+File: Z99D-Z100S-Z101DS-Choppin.jpg | Size: 8595B | Dimensions: 156x208
+Comment: Z99D-Z100S-Z101DS-Choppin.jpg - Source: https://exactwatjezoekt.nl/wp-content/uploads/2022/05/Gregory_Choppin.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z100-Fm-Fermium.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg 
+--------------------------------------------------- 
+File: Z102D-Z103D-Sikkeland.jpg | Size: 3824B | Dimensions: 81x108
+Comment: Z102D-Z103D-Sikkeland.jpg - Source: https://canov.jergym.cz/objevite/objev/sik.gif
+--------------------------------------------------- 
+FILE NOT FOUND: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg 
+--------------------------------------------------- 
+File: Z103D-Larsh.jpg | Size: 2893B | Dimensions: 67x89
+Comment: Z103D-Larsh.jpg - Source: https://i0.wp.com/canov.jergym.cz/objevite/objev/lar.gif
+--------------------------------------------------- 
+FILE NOT FOUND: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg 
+--------------------------------------------------- 
+File: Z104D-Z105D-Fljorow.jpg | Size: 19472B | Dimensions: 216x288
+Comment: Z104D-Z105D-Fljorow.jpg - Source: https://commons.wikimedia.org/wiki/File:RUSMARKA-1660.jpg
+--------------------------------------------------- 
+File: Z104D-Harris.jpg | Size: 19730B | Dimensions: 232x309
+Comment: Z104D-Harris.jpg - Source: https://en.wikipedia.org/wiki/File:James_Andrew_Harris.jpeg
+--------------------------------------------------- 
+FILE NOT FOUND: Z105Db-114FL-115Mc-118Og-JINR.jpg 
+--------------------------------------------------- 
+File: Z105N-Z106N-Z107N-IUPAC.jpg | Size: 20123B | Dimensions: 358x477
+Comment: Z105N-Z106N-Z107N-IUPAC.jpg - Source: https://upload.wikimedia.org/wikipedia/de/thumb/4/49/Logo_IUPAC.svg/250px-Logo_IUPAC.svg.png
+--------------------------------------------------- 
+FILE NOT FOUND: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg 
+--------------------------------------------------- 
+File: Z106D-Z107D-Z114DN-Z115DN-Z116DN-Z117DN-Z118DN-Oganessian.jpg | Size: 27704B | Dimensions: 359x479
+Comment: Z106D-Z107D-Z114DN-Z115DN-Z116DN-Z117DN-Z118DN-Oganessian.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Yuri0Oganessian.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg 
+--------------------------------------------------- 
+File: Z107DN-Z108DN-Z109DN-Z110DN-Z111DN-Z112DN-Muenzenberg.jpg | Size: 25241B | Dimensions: 317x422
+Comment: Z107DN-Z108DN-Z109DN-Z110DN-Z111DN-Z112DN-Muenzenberg.jpg - Source: https://www.eduspb.com/public/img/biography/m/munzenberg_g2.jpg
+--------------------------------------------------- 
+File: Z107D-Z108DN-Z109DN-Armbruster.jpg | Size: 123229B | Dimensions: 595x793
+Comment: Z107D-Z108DN-Z109DN-Armbruster.jpg - Source: https://www.gsi.de/fileadmin/_processed_/1/3/csm_peter-armbruster_00893f68f1.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg 
+--------------------------------------------------- 
+File: Z108DN-Z109DN-Z110DN-Z111DN-Z112DN-GSI.jpg | Size: 7877B | Dimensions: 331x441
+Comment: Z108DN-Z109DN-Z110DN-Z111DN-Z112DN-GSI.jpg - Source: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/GSI_Logo.svg/330px-GSI_Logo.svg.png
+--------------------------------------------------- 
+FILE NOT FOUND: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg 
+--------------------------------------------------- 
+File: Z110DN-Z111DN-Z112DN-Hofmann.jpg | Size: 5895B | Dimensions: 111x147
+Comment: Z110DN-Z111DN-Z112DN-Hofmann.jpg - Source: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sigurd_Hofmann_GroJPEG3%9F-Umstadt_2019.jpg/250px-Sigurd_Hofmann_GroJPEG3%9F-Umstadt_2019.jpg
+--------------------------------------------------- 
+FILE NOT FOUND: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z113Nh-RIKEN.jpg 
+--------------------------------------------------- 
+File: Z113DN-Morita.jpg | Size: 6714B | Dimensions: 119x159
+Comment: Z113DN-Morita.jpg - Source: https://commons.wikimedia.org/wiki/File:Kosuke_Morita_cropped_2_Kosuke_Morita_20161201.jpg
+--------------------------------------------------- 
+File: Z113DN-RIKEN.jpg | Size: 51415B | Dimensions: 703x938
+Comment: Z113DN-RIKEN.jpg - Source: https://de.wikipedia.org/wiki/Datei:RIKEN_logo.png
+--------------------------------------------------- 
+FILE NOT FOUND: Z105Db-114FL-115Mc-118Og-JINR.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z105Db-114FL-115Mc-118Og-JINR.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z105Db-114FL-115Mc-118Og-JINR.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z116Lv-LLNL.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z101Md-102No-103Lr-104Rf-Z116DN-Z118DN-LLNL.jpg 
+--------------------------------------------------- 
+FILE NOT FOUND: Z117Ts-ORNL.jpg 
+--------------------------------------------------- 
+File: Z117DN-ORNL.jpg | Size: 40410B | Dimensions: 432x575
+Comment: Z117DN-ORNL.jpg - Source: https://www.drupal.org/files/styles/grid-4-2x/public/ORNL-logo_1.png?itok=HHlfJu03
+--------------------------------------------------- 
+FILE NOT FOUND: Z105Db-114FL-115Mc-118Og-JINR.jpg 
+--------------------------------------------------- 
