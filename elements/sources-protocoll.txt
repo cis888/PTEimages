@@ -1,0 +1,357 @@
+Image Processing Protocol - 20.04.2026 17:01:07,21 
+--------------------------------------------------- 
+File: Z1-H-Hydrogen.jpg | Size: 51313B | Dimensions: 300x400
+Comment: Z1-H-Hydrogen.jpg - Source: https://images-of-elements.com/hydrogen.php
+--------------------------------------------------- 
+File: Z2-He-Helium.jpg | Size: 53236B | Dimensions: 300x400
+Comment: Z2-He-Helium.jpg - Source: https://images-of-elements.com/helium.php
+--------------------------------------------------- 
+File: Z3-Li-Lithium.jpg | Size: 9131B | Dimensions: 300x400
+Comment: Z3-Li-Lithium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Lithium0paraffin.jpg
+--------------------------------------------------- 
+File: Z4-Be-Beryllium.jpg | Size: 40865B | Dimensions: 300x400
+Comment: Z4-Be-Beryllium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Beryllium0nuggets02.jpg
+--------------------------------------------------- 
+File: Z5-B-Boron.jpg | Size: 66828B | Dimensions: 300x400
+Comment: Z5-B-Boron.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Boron.jpg
+--------------------------------------------------- 
+File: Z6-C-Carbon.jpg | Size: 24316B | Dimensions: 300x400
+Comment: Z6-C-Carbon.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Coal0anthracite.jpg
+--------------------------------------------------- 
+File: Z7-N-Nitrogen.jpg | Size: 64660B | Dimensions: 300x400
+Comment: Z7-N-Nitrogen.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Fluessiger0Stickstoff.jpg
+--------------------------------------------------- 
+File: Z8-O-Oxygen.jpg | Size: 77807B | Dimensions: 300x400
+Comment: Z8-O-Oxygen.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid0oxygen0in0a0beaker04.jpg
+--------------------------------------------------- 
+File: Z9-F-Fluorine.jpg | Size: 88226B | Dimensions: 300x400
+Comment: Z9-F-Fluorine.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid0fluorine0tighter0crop.jpg
+--------------------------------------------------- 
+File: Z10-Ne-Neon.jpg | Size: 54570B | Dimensions: 300x400
+Comment: Z10-Ne-Neon.jpg - Source: https://images-of-elements.com/neon.php
+--------------------------------------------------- 
+File: Z11-Na-Sodium.jpg | Size: 48923B | Dimensions: 300x400
+Comment: Z11-Na-Sodium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Na0%28Sodium9.jpg
+--------------------------------------------------- 
+File: Z12-Mg-Magnesium.jpg | Size: 46020B | Dimensions: 300x400
+Comment: Z12-Mg-Magnesium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Magnesium0crystals.jpg
+--------------------------------------------------- 
+File: Z13-Al-Aluminium.jpg | Size: 72715B | Dimensions: 300x400
+Comment: Z13-Al-Aluminium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Aluminium-4.jpg
+--------------------------------------------------- 
+File: Z14-Si-Silicon.jpg | Size: 56451B | Dimensions: 300x400
+Comment: Z14-Si-Silicon.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/SiliconCroda.jpg
+--------------------------------------------------- 
+File: Z15-P-Phosphorus.jpg | Size: 41121B | Dimensions: 300x400
+Comment: Z15-P-Phosphorus.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Phosphor.JPG
+--------------------------------------------------- 
+File: Z16-S-Sulfur.jpg | Size: 104992B | Dimensions: 300x400
+Comment: Z16-S-Sulfur.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur0-0El0Desierto0mineC0San0Pablo0de0NapaC0Daniel0Campos0ProvinceC0PotosJPEG3%ADC0Bolivia.jpg
+--------------------------------------------------- 
+File: Z17-Cl-Chlorine.jpg | Size: 60535B | Dimensions: 300x400
+Comment: Z17-Cl-Chlorine.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Chlorine0liquid0in0an0ampoule.jpg
+--------------------------------------------------- 
+File: Z18-Ar-Argon.jpg | Size: 51897B | Dimensions: 300x400
+Comment: Z18-Ar-Argon.jpg - Source: https://images-of-elements.com/argon.php
+--------------------------------------------------- 
+File: Z19-K-Potassium.jpg | Size: 100165B | Dimensions: 300x400
+Comment: Z19-K-Potassium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Kalium.jpg
+--------------------------------------------------- 
+File: Z20-Ca-Calcium.jpg | Size: 16091B | Dimensions: 300x400
+Comment: Z20-Ca-Calcium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Calcium01.jpg
+--------------------------------------------------- 
+File: Z21-Sc-Scandium.jpg | Size: 51086B | Dimensions: 300x400
+Comment: Z21-Sc-Scandium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Scandium0sublimed0dendritic0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z22-Ti-Titanium.jpg | Size: 54869B | Dimensions: 300x400
+Comment: Z22-Ti-Titanium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Titan-crystal0bar.JPG
+--------------------------------------------------- 
+File: Z23-V-Vanadium.jpg | Size: 15858B | Dimensions: 300x400
+Comment: Z23-V-Vanadium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium01.jpg
+--------------------------------------------------- 
+File: Z24-Cr-Chromium.jpg | Size: 58002B | Dimensions: 300x400
+Comment: Z24-Cr-Chromium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Chromium0crystals0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z25-Mn-Manganese.jpg | Size: 60301B | Dimensions: 300x400
+Comment: Z25-Mn-Manganese.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Manganese0electrolytic0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z26-Fe-Iron.jpg | Size: 53872B | Dimensions: 300x400
+Comment: Z26-Fe-Iron.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Iron0electrolytic0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z27-Co-Cobalt.jpg | Size: 54253B | Dimensions: 300x400
+Comment: Z27-Co-Cobalt.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Kobalt0electrolytic0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z28-Ni-Nickel.jpg | Size: 72992B | Dimensions: 300x400
+Comment: Z28-Ni-Nickel.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Electrolytic0nickel.jpg
+--------------------------------------------------- 
+File: Z29-Cu-Copper.jpg | Size: 54428B | Dimensions: 300x400
+Comment: Z29-Cu-Copper.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Cuivre0Michigan.jpg
+--------------------------------------------------- 
+File: Z30-Zn-Zinc.jpg | Size: 53544B | Dimensions: 300x400
+Comment: Z30-Zn-Zinc.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Zinc0fragment0sublimed0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z31-Ga-Gallium.jpg | Size: 36559B | Dimensions: 300x400
+Comment: Z31-Ga-Gallium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Gallium0crystals.jpg
+--------------------------------------------------- 
+File: Z32-Ge-Germanium.jpg | Size: 35354B | Dimensions: 300x400
+Comment: Z32-Ge-Germanium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Germanium0element.jpg
+--------------------------------------------------- 
+File: Z33-As-Arsenic.jpg | Size: 14118B | Dimensions: 300x400
+Comment: Z33-As-Arsenic.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Arsen01.jpg
+--------------------------------------------------- 
+File: Z34-Se-Selenium.jpg | Size: 34532B | Dimensions: 300x400
+Comment: Z34-Se-Selenium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Selen01.jpg
+--------------------------------------------------- 
+File: Z35-Br-Bromine.jpg | Size: 90859B | Dimensions: 300x400
+Comment: Z35-Br-Bromine.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine0vial0in0acrylic0cube.jpg
+--------------------------------------------------- 
+File: Z36-Kr-Krypton.jpg | Size: 53488B | Dimensions: 300x400
+Comment: Z36-Kr-Krypton.jpg - Source: https://images-of-elements.com/krypton.php
+--------------------------------------------------- 
+File: Z37-Rb-Rubidium.jpg | Size: 28585B | Dimensions: 300x400
+Comment: Z37-Rb-Rubidium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/RbMetal.JPG
+--------------------------------------------------- 
+File: Z38-Sr-Strontium.jpg | Size: 51212B | Dimensions: 300x400
+Comment: Z38-Sr-Strontium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Strontium0destilled0crystals.jpg
+--------------------------------------------------- 
+File: Z39-Y-Yttrium.jpg | Size: 59040B | Dimensions: 300x400
+Comment: Z39-Y-Yttrium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Yttrium0sublimed0dendritic0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z40-Zr-Zirconium.jpg | Size: 65266B | Dimensions: 300x400
+Comment: Z40-Zr-Zirconium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Zirconium0crystal0bar0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z41-Nb-Niobium.jpg | Size: 55208B | Dimensions: 300x400
+Comment: Z41-Nb-Niobium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Niobium0crystals0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z42-Mo-Molybdenum.jpg | Size: 43804B | Dimensions: 300x400
+Comment: Z42-Mo-Molybdenum.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Molybdenum0crystaline0fragment0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z43-Tc-Technetium.jpg | Size: 59028B | Dimensions: 300x400
+Comment: Z43-Tc-Technetium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Technetium-sample.jpg
+--------------------------------------------------- 
+File: Z44-Ru-Ruthenium.jpg | Size: 39871B | Dimensions: 300x400
+Comment: Z44-Ru-Ruthenium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium0a0half0bar.jpg
+--------------------------------------------------- 
+File: Z45-Rh-Rhodium.jpg | Size: 43516B | Dimensions: 300x400
+Comment: Z45-Rh-Rhodium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Rhodium0powder0pressed0melted.jpg
+--------------------------------------------------- 
+File: Z46-Pd-Palladium.jpg | Size: 63534B | Dimensions: 300x400
+Comment: Z46-Pd-Palladium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Palladium0%2846%20Pd9.jpg
+--------------------------------------------------- 
+File: Z47-Ag-Silver.jpg | Size: 116079B | Dimensions: 300x400
+Comment: Z47-Ag-Silver.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Silver0crystal.jpg
+--------------------------------------------------- 
+File: Z48-Cd-Cadmium.jpg | Size: 35346B | Dimensions: 300x400
+Comment: Z48-Cd-Cadmium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Cadmium-crystal0bar.jpg
+--------------------------------------------------- 
+File: Z49-In-Indium.jpg | Size: 27823B | Dimensions: 300x400
+Comment: Z49-In-Indium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Indium0wetting0glass.jpg
+--------------------------------------------------- 
+File: Z50-Sn-Tin.jpg | Size: 39469B | Dimensions: 300x400
+Comment: Z50-Sn-Tin.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/CJPEG3%ADn.PNG
+--------------------------------------------------- 
+File: Z51-Sb-Antimony.jpg | Size: 72699B | Dimensions: 300x400
+Comment: Z51-Sb-Antimony.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Antimony-2.jpg
+--------------------------------------------------- 
+File: Z52-Te-Tellurium.jpg | Size: 45581B | Dimensions: 300x400
+Comment: Z52-Te-Tellurium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium0element02.jpg
+--------------------------------------------------- 
+File: Z53-I-Iodine.jpg | Size: 84842B | Dimensions: 300x400
+Comment: Z53-I-Iodine.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Sample0of0iodine.jpg
+--------------------------------------------------- 
+File: Z54-Xe-Xenon.jpg | Size: 49077B | Dimensions: 300x400
+Comment: Z54-Xe-Xenon.jpg - Source: https://images-of-elements.com/xenon.php
+--------------------------------------------------- 
+File: Z55-Cs-Caesium.jpg | Size: 44499B | Dimensions: 300x400
+Comment: Z55-Cs-Caesium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Cesium.jpg
+--------------------------------------------------- 
+File: Z56-Ba-Barium.jpg | Size: 13711B | Dimensions: 300x400
+Comment: Z56-Ba-Barium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Barium01.jpg
+--------------------------------------------------- 
+File: Z57-La-Lanthanum.jpg | Size: 12400B | Dimensions: 300x400
+Comment: Z57-La-Lanthanum.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Lanthan01-cropflipped.jpg
+--------------------------------------------------- 
+File: Z58-Ce-Cerium.jpg | Size: 45892B | Dimensions: 300x400
+Comment: Z58-Ce-Cerium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/CE2k2g.jpg
+--------------------------------------------------- 
+File: Z59-Pr-Praseodymium.jpg | Size: 10412B | Dimensions: 300x400
+Comment: Z59-Pr-Praseodymium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Praseodym01.jpg
+--------------------------------------------------- 
+File: Z60-Nd-Neodymium.jpg | Size: 70920B | Dimensions: 300x400
+Comment: Z60-Nd-Neodymium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Neodym01.jpg
+--------------------------------------------------- 
+File: Z61-Pm-Promethium.jpg | Size: 27355B | Dimensions: 300x400
+Comment: Z61-Pm-Promethium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Promethium-147%20solution.jpg
+--------------------------------------------------- 
+File: Z62-Sm-Samarium.jpg | Size: 17880B | Dimensions: 300x400
+Comment: Z62-Sm-Samarium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Samarium01.jpg
+--------------------------------------------------- 
+File: Z63-Eu-Europium.jpg | Size: 92716B | Dimensions: 300x400
+Comment: Z63-Eu-Europium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Eu-Block.jpg
+--------------------------------------------------- 
+File: Z64-Gd-Gadolinium.jpg | Size: 58539B | Dimensions: 300x400
+Comment: Z64-Gd-Gadolinium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Gadolinium.jpg
+--------------------------------------------------- 
+File: Z65-Tb-Terbium.jpg | Size: 35931B | Dimensions: 300x400
+Comment: Z65-Tb-Terbium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Terbium0element.jpg
+--------------------------------------------------- 
+File: Z66-Dy-Dysprosium.jpg | Size: 46349B | Dimensions: 300x400
+Comment: Z66-Dy-Dysprosium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Dysprosium1.jpg
+--------------------------------------------------- 
+File: Z67-Ho-Holmium.jpg | Size: 35379B | Dimensions: 300x400
+Comment: Z67-Ho-Holmium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Holmium.jpg
+--------------------------------------------------- 
+File: Z68-Er-Erbium.jpg | Size: 12626B | Dimensions: 300x400
+Comment: Z68-Er-Erbium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Erbium.jpg
+--------------------------------------------------- 
+File: Z69-Tm-Thulium.jpg | Size: 63173B | Dimensions: 300x400
+Comment: Z69-Tm-Thulium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Thulium0sublimed0dendritic0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z70-Yb-Ytterbium.jpg | Size: 21357B | Dimensions: 300x400
+Comment: Z70-Yb-Ytterbium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium0element.jpg
+--------------------------------------------------- 
+File: Z71-Lu-Lutetium.jpg | Size: 65246B | Dimensions: 300x400
+Comment: Z71-Lu-Lutetium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Lutetium0sublimed0dendritic0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z72-Hf-Hafnium.jpg | Size: 56571B | Dimensions: 300x400
+Comment: Z72-Hf-Hafnium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Hf-crystal0bar.jpg
+--------------------------------------------------- 
+File: Z73-Ta-Tantalum.jpg | Size: 53740B | Dimensions: 300x400
+Comment: Z73-Ta-Tantalum.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Tantalum0single0crystal0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z74-W-Tungsten.jpg | Size: 59350B | Dimensions: 300x400
+Comment: Z74-W-Tungsten.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Wolfram0evaporated0crystals0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z75-Re-Rhenium.jpg | Size: 51050B | Dimensions: 300x400
+Comment: Z75-Re-Rhenium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Rhenium0single0crystal0bar0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z76-Os-Osmium.jpg | Size: 90296B | Dimensions: 300x400
+Comment: Z76-Os-Osmium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Osmium0crystals.jpg
+--------------------------------------------------- 
+File: Z77-Ir-Iridium.jpg | Size: 24553B | Dimensions: 300x400
+Comment: Z77-Ir-Iridium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Iridium0foil.jpg
+--------------------------------------------------- 
+File: Z78-Pt-Platinum.jpg | Size: 23767B | Dimensions: 300x400
+Comment: Z78-Pt-Platinum.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Platinum0crystals.jpg
+--------------------------------------------------- 
+File: Z79-Au-Gold.jpg | Size: 79995B | Dimensions: 300x400
+Comment: Z79-Au-Gold.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Gold-crystals.jpg
+--------------------------------------------------- 
+File: Z80-Hg-Mercury.jpg | Size: 13988B | Dimensions: 300x400
+Comment: Z80-Hg-Mercury.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Mercury-element.jpg
+--------------------------------------------------- 
+File: Z81-Tl-Thallium.jpg | Size: 26116B | Dimensions: 300x400
+Comment: Z81-Tl-Thallium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Thallium0pieces0in0ampoule.jpg
+--------------------------------------------------- 
+File: Z82-Pb-Lead.jpg | Size: 51326B | Dimensions: 300x400
+Comment: Z82-Pb-Lead.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Lead0electrolytic0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z83-Bi-Bismuth.jpg | Size: 66573B | Dimensions: 300x400
+Comment: Z83-Bi-Bismuth.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Bismuth0crystals0and01cm3%20cube.jpg
+--------------------------------------------------- 
+File: Z84-Po-Polonium.jpg | Size: 52439B | Dimensions: 300x400
+Comment: Z84-Po-Polonium.jpg - Source: https://images-of-elements.com/polonium.php
+--------------------------------------------------- 
+File: Z85-At-Astatine.jpg | Size: 117022B | Dimensions: 300x400
+Comment: Z85-At-Astatine.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Glow0from0a0sample0of0astatine0%28cropped9.jpg
+--------------------------------------------------- 
+File: Z86-Rn-Radon.jpg | Size: 40185B | Dimensions: 300x400
+Comment: Z86-Rn-Radon.jpg - Source: https://images-of-elements.com/radon.php
+--------------------------------------------------- 
+File: Z87-Fr-Francium.jpg | Size: 133784B | Dimensions: 300x400
+Comment: Z87-Fr-Francium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Francium0%28Element0-087%29%201.jpg
+--------------------------------------------------- 
+File: Z88-Ra-Radium.jpg | Size: 30933B | Dimensions: 300x400
+Comment: Z88-Ra-Radium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Radium226.jpg
+--------------------------------------------------- 
+File: Z89-Ac-Actinium.jpg | Size: 27899B | Dimensions: 300x400
+Comment: Z89-Ac-Actinium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Actinium0sample0%2831481701837%29.png
+--------------------------------------------------- 
+File: Z90-Th-Thorium.jpg | Size: 26428B | Dimensions: 300x400
+Comment: Z90-Th-Thorium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Thorium0sample00.1g.jpg
+--------------------------------------------------- 
+File: Z91-Pa-Protactinium.jpg | Size: 15953B | Dimensions: 300x400
+Comment: Z91-Pa-Protactinium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Protactinium-233.jpg
+--------------------------------------------------- 
+File: Z92-U-Uranium.jpg | Size: 28187B | Dimensions: 300x400
+Comment: Z92-U-Uranium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg
+--------------------------------------------------- 
+File: Z93-Np-Neptunium.jpg | Size: 16187B | Dimensions: 300x400
+Comment: Z93-Np-Neptunium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Neptunium2.jpg
+--------------------------------------------------- 
+File: Z94-Pu-Plutonium.jpg | Size: 27618B | Dimensions: 300x400
+Comment: Z94-Pu-Plutonium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Plutonium0ring.jpg
+--------------------------------------------------- 
+File: Z95-Am-Americium.jpg | Size: 85267B | Dimensions: 300x400
+Comment: Z95-Am-Americium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Americium0microscope.jpg
+--------------------------------------------------- 
+File: Z96-Cm-Curium.jpg | Size: 21407B | Dimensions: 300x400
+Comment: Z96-Cm-Curium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Cm-Fluoreszenz.png
+--------------------------------------------------- 
+File: Z97-Bk-Berkelium.jpg | Size: 49276B | Dimensions: 300x400
+Comment: Z97-Bk-Berkelium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Berkelium0metal.jpg
+--------------------------------------------------- 
+File: Z98-Cf-Californium.jpg | Size: 46708B | Dimensions: 300x400
+Comment: Z98-Cf-Californium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg
+--------------------------------------------------- 
+File: Z99-Es-Einsteinium.jpg | Size: 16205B | Dimensions: 300x400
+Comment: Z99-Es-Einsteinium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Einsteinium.jpg
+--------------------------------------------------- 
+File: Z100-Fm-Fermium.jpg | Size: 56172B | Dimensions: 300x400
+Comment: Z100-Fm-Fermium.jpg - Source: http://commons.wikimedia.org/wiki/Special:FilePath/Fermium-Ytterbium0Alloy.jpg
+--------------------------------------------------- 
+File: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg | Size: 33679B | Dimensions: 300x400
+Comment: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg - Source: https://commons.wikimedia.org/wiki/File:Molecular_Foundry_Berkeley.jpg
+--------------------------------------------------- 
+File: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg | Size: 33646B | Dimensions: 300x400
+Comment: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg - Source: https://commons.wikimedia.org/wiki/File:Molecular_Foundry_Berkeley.jpg
+--------------------------------------------------- 
+File: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg | Size: 33647B | Dimensions: 300x400
+Comment: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg - Source: https://commons.wikimedia.org/wiki/File:Molecular_Foundry_Berkeley.jpg
+--------------------------------------------------- 
+File: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg | Size: 33646B | Dimensions: 300x400
+Comment: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg - Source: https://commons.wikimedia.org/wiki/File:Molecular_Foundry_Berkeley.jpg
+--------------------------------------------------- 
+File: Z105Db-114FL-115Mc-118Og-JINR.jpg | Size: 54973B | Dimensions: 300x400
+Comment: Z105Db-114FL-115Mc-118Og-JINR.jpg - Source: https://commons.wikimedia.org/wiki/File:Dubna.house_of_scientiests.jpg
+--------------------------------------------------- 
+File: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg | Size: 33645B | Dimensions: 300x400
+Comment: Z101Md-Z102No-Z103Lr-Z104Rf-Z106Sg-LBNL.jpg - Source: https://commons.wikimedia.org/wiki/File:Molecular_Foundry_Berkeley.jpg
+--------------------------------------------------- 
+File: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg | Size: 35523B | Dimensions: 300x400
+Comment: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg - Source: https://commons.wikimedia.org/wiki/File:GSI-Darmstadt-SJPEG3%BCdbau.jpg
+--------------------------------------------------- 
+File: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg | Size: 35518B | Dimensions: 300x400
+Comment: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg - Source: https://commons.wikimedia.org/wiki/File:GSI-Darmstadt-SJPEG3%BCdbau.jpg
+--------------------------------------------------- 
+File: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg | Size: 35518B | Dimensions: 300x400
+Comment: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg - Source: https://commons.wikimedia.org/wiki/File:GSI-Darmstadt-SJPEG3%BCdbau.jpg
+--------------------------------------------------- 
+File: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg | Size: 35518B | Dimensions: 300x400
+Comment: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg - Source: https://commons.wikimedia.org/wiki/File:GSI-Darmstadt-SJPEG3%BCdbau.jpg
+--------------------------------------------------- 
+File: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg | Size: 35503B | Dimensions: 300x400
+Comment: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg - Source: https://commons.wikimedia.org/wiki/File:GSI-Darmstadt-SJPEG3%BCdbau.jpg
+--------------------------------------------------- 
+File: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg | Size: 35512B | Dimensions: 300x400
+Comment: Z107Bh-108Hs-109Mt-110Ds-111Rg-112Cn-GSI.jpg - Source: https://commons.wikimedia.org/wiki/File:GSI-Darmstadt-SJPEG3%BCdbau.jpg
+--------------------------------------------------- 
+File: Z113Nh-RIKEN.jpg | Size: 21090B | Dimensions: 300x400
+Comment: Z113Nh-RIKEN.jpg - Source: https://commons.wikimedia.org/wiki/File:RIKEN_AICS_20120810-001.jpg
+--------------------------------------------------- 
+File: Z105Db-114FL-115Mc-118Og-JINR.jpg | Size: 54948B | Dimensions: 300x400
+Comment: Z105Db-114FL-115Mc-118Og-JINR.jpg - Source: https://commons.wikimedia.org/wiki/File:Dubna.house_of_scientiests.jpg
+--------------------------------------------------- 
+File: Z105Db-114FL-115Mc-118Og-JINR.jpg | Size: 54969B | Dimensions: 300x400
+Comment: Z105Db-114FL-115Mc-118Og-JINR.jpg - Source: https://commons.wikimedia.org/wiki/File:Dubna.house_of_scientiests.jpg
+--------------------------------------------------- 
+File: Z116Lv-LLNL.jpg | Size: 33944B | Dimensions: 300x400
+Comment: Z116Lv-LLNL.jpg - Source: https://commons.wikimedia.org/wiki/File:IMAG3049-livermore-lab_cropped.jpg
+--------------------------------------------------- 
+File: Z117Ts-ORNL.jpg | Size: 26574B | Dimensions: 300x400
+Comment: Z117Ts-ORNL.jpg - Source: https://commons.wikimedia.org/wiki/File:Oak_Ridge_National_Laboratory_Aerial_View.jpg
+--------------------------------------------------- 
+File: Z105Db-114FL-115Mc-118Og-JINR.jpg | Size: 54975B | Dimensions: 300x400
+Comment: Z105Db-114FL-115Mc-118Og-JINR.jpg - Source: https://commons.wikimedia.org/wiki/File:Dubna.house_of_scientiests.jpg
+--------------------------------------------------- 
+Task completed at 17:01:26,92 
